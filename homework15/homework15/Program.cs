@@ -6,19 +6,20 @@ namespace homework15
     {
         static void Main(string[] args)
         {
-            ListInt list = new ListInt();
-            list.Add(6);
-            Console.WriteLine(list[6]);
+            CustomList<int> list = new CustomList<int>();
+            list.AddRange(6,3,1,4,9);
+            //list.Add(2);
+            //list.Add(3);
+            //list.Add(4);
+            //list.Add(5);
+            //Console.WriteLine(list[6]);
             Console.WriteLine(list.Contains(6));
-            Console.WriteLine(list.Contains(7));
-            list.AddRange(7, 8, 9,10);
-            //Console.WriteLine(list.Sum());
-            //list.Remove(10);
-            //Console.WriteLine(list);
-            list.RemoveRange(5,10);
-            Console.WriteLine(list.Sum());
-            //Console.WriteLine(list);
-            
+            //list.Remove(1);
+            list.RemoveRange(6,3);
+            Console.WriteLine(list);
+            Console.WriteLine(list.Capacity);
+            Console.WriteLine(list.Count);
+
         }
     }
 }
