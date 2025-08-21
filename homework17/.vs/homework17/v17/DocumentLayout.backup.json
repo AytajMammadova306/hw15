@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85BB1C6A-1045-4A83-8D40-0468F4DF42F3}|homework17\\homework17.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw15\\homework17\\homework17\\models\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BB1C6A-1045-4A83-8D40-0468F4DF42F3}|homework17\\homework17.csproj|solutionrelative:homework17\\models\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85BB1C6A-1045-4A83-8D40-0468F4DF42F3}|homework17\\homework17.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw15\\homework17\\homework17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85BB1C6A-1045-4A83-8D40-0468F4DF42F3}|homework17\\homework17.csproj|solutionrelative:homework17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BB1C6A-1045-4A83-8D40-0468F4DF42F3}|homework17\\homework17.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw15\\homework17\\homework17\\models\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BB1C6A-1045-4A83-8D40-0468F4DF42F3}|homework17\\homework17.csproj|solutionrelative:homework17\\models\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pair.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework17\\homework17\\Models\\Pair.cs",
               "RelativeDocumentMoniker": "homework17\\Models\\Pair.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework17\\homework17\\Models\\Pair.cs*",
-              "RelativeToolTip": "homework17\\Models\\Pair.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAjwDcAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework17\\homework17\\Models\\Pair.cs",
+              "RelativeToolTip": "homework17\\Models\\Pair.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T10:29:32.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework17\\homework17\\Program.cs",
               "RelativeDocumentMoniker": "homework17\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework17\\homework17\\Program.cs",
-              "RelativeToolTip": "homework17\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework17\\homework17\\Program.cs*",
+              "RelativeToolTip": "homework17\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T10:26:58.388Z",
               "EditorCaption": ""

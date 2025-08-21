@@ -19,13 +19,14 @@ namespace homework17
             Pair<int, int> pair3 = new Pair<int, int>
             {
                 Key = 3,
-                Value = 102
+                Value = 103
             };
             Pair<int, string>.Add(pair);
             Pair<int, int>.Add(pair2);
             Pair<int, int>.Add(pair3);
             Pair<int,string>.PrintInfo();
             Pair<int, int>.PrintInfo();
+            Console.WriteLine(pair2[1]);
         }
     }
 }

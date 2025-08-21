@@ -23,7 +23,7 @@ namespace homework17.Models
                     if (pair.Key == index)
                         return pair.Value;
                 }
-                return default;
+                throw new Exception("wrong input");//syntax i bilmirdim amma yadimda texmini yazdigimiz kodlarin syxtax gurulusu logicasi ile yazdim isledi.
             }
             set
             {
