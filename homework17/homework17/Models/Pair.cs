@@ -50,7 +50,7 @@ namespace homework17.Models
             if (count == 0)
             {
                 Array.Resize(ref Pairs, Pairs.Length+1);
-                Pairs[Pairs.Length] = pair;
+                Pairs[Pairs.Length-1] = pair;
             }
         }
     }

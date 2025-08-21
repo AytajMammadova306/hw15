@@ -24,9 +24,9 @@ namespace homework17
             Pair<int, string>.Add(pair);
             Pair<int, int>.Add(pair2);
             Pair<int, int>.Add(pair2);
-            foreach (Pair<int, string> p in Pair<int, string>[])
+            foreach (Pair<int, string> p in Pair<int, string>.Pairs)
             {
-                Console.WriteLine($"Key:{Key}, Value:{Value}");
+                Console.WriteLine($"Key:{p.Key}, Value:{p.Value}");
             }
         }
     }
