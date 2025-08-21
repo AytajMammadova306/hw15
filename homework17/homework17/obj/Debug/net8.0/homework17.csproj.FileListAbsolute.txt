@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\academy\HW\hw15\homework17\homework17\obj\Debug\net8.0\homework17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\academy\HW\hw15\homework17\homework17\obj\Debug\net8.0\homework17.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\academy\HW\hw15\homework17\homework17\obj\Debug\net8.0\homework17.AssemblyInfo.cs
+C:\Users\User\Desktop\academy\HW\hw15\homework17\homework17\obj\Debug\net8.0\homework17.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\academy\HW\hw15\homework17\homework17\obj\Debug\net8.0\homework17.sourcelink.json
