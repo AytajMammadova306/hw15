@@ -53,5 +53,12 @@ namespace homework17.Models
                 Pairs[Pairs.Length-1] = pair;
             }
         }
+        public static void PrintInfo()
+        {
+            foreach (Pair<T,U> p in Pairs)
+            {
+                Console.WriteLine($"Key:{p.Key}, Value:{p.Value}");
+            }
+        }
     }
 }
