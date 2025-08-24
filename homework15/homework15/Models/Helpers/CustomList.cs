@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace homework15.Models.Helpers
 {
-    internal class CustomList<T> where T:INumber<T>
+    internal class CustomList<T> 
     {
         private T[] arr = new T[4];
         public int Capacity = 4;
@@ -33,7 +33,7 @@ namespace homework15.Models.Helpers
         {
             foreach (T i in arr)
             {
-                if (i == item)
+                if (item.Equals(i))
                     return true;
             }
             return false;
@@ -53,22 +53,28 @@ namespace homework15.Models.Helpers
         }
         public void Remove(T item)
         {
-            if (Count - 1 < Capacity / 2)
+            int count = 0;
+            foreach (T i in arr)
             {
-                Capacity/=2;
+                if (i.Equals(item)) count++;
             }
-            T[] newarr=new T[Capacity];
+
+            if (Count - count <= Capacity / 2)
+            {
+                Capacity /= 2;
+            }
+            T[] newarr = new T[Capacity];
             int j = 0;
             for (int i = 0; i < Count; i++)
             {
-                if (arr[i] != item)
+                if (!(item.Equals(arr[i])))
                 {
                     newarr[j] = arr[i];
                     j++;
                 }
             }
+            Count-=count;
             arr = newarr;
-            Count--;
         }
         public void RemoveRange(params T[] items)
         {
@@ -83,7 +89,7 @@ namespace homework15.Models.Helpers
                 int count = 0;
                 foreach (T k in items)
                 {
-                    if (arr[i] != k)
+                    if (!(arr[i].Equals(k)))
                     {
                         count++;
                     }

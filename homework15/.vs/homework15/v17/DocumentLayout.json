@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73C6DAC5-D4D7-4405-B21A-5048D11513DF}|homework15\\homework15.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw15\\homework15\\homework15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73C6DAC5-D4D7-4405-B21A-5048D11513DF}|homework15\\homework15.csproj|solutionrelative:homework15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73C6DAC5-D4D7-4405-B21A-5048D11513DF}|homework15\\homework15.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw15\\homework15\\homework15\\models\\helpers\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73C6DAC5-D4D7-4405-B21A-5048D11513DF}|homework15\\homework15.csproj|solutionrelative:homework15\\models\\helpers\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6DAC5-D4D7-4405-B21A-5048D11513DF}|homework15\\homework15.csproj|c:\\users\\user\\desktop\\academy\\hw\\hw15\\homework15\\homework15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6DAC5-D4D7-4405-B21A-5048D11513DF}|homework15\\homework15.csproj|solutionrelative:homework15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CustomList.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework15\\homework15\\Models\\Helpers\\CustomList.cs",
               "RelativeDocumentMoniker": "homework15\\Models\\Helpers\\CustomList.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework15\\homework15\\Models\\Helpers\\CustomList.cs",
               "RelativeToolTip": "homework15\\Models\\Helpers\\CustomList.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAewA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwEQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-17T09:04:20.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework15\\homework15\\Program.cs",
               "RelativeDocumentMoniker": "homework15\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\hw15\\homework15\\homework15\\Program.cs",
               "RelativeToolTip": "homework15\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-17T08:56:57.771Z",
               "EditorCaption": ""
